@@ -1,0 +1,26 @@
+#h{
+	display:inline;
+	position:absolute;
+	top:55px;
+	left:355px;
+	font-size:44px;
+}
+
+li{
+	list-style:none;
+}
+.con ul li{
+	float:right;
+	padding:5px;
+}
+
+.con{
+	position:absolute;
+	top:155px;
+	left:650px;
+	padding-right:30px;
+}
+p{
+	line-height:2;
+
+}
